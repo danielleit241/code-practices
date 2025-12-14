@@ -28,8 +28,8 @@ Mỗi bài tập sẽ bao gồm:
 
 ```
 <platform>/<category>/<problem-name>/
-                                    ├── README.md        # Đề bài và giải thích
-                                    └── solution.py      # Code giải quyết
+    ├── README.md        # Đề bài và giải thích
+    └── solution.py      # Code giải quyết
 ```
 
 ## 📚 Tài nguyên tham khảo
