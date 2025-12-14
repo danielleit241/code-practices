@@ -14,16 +14,16 @@ Kho lưu trữ các giải pháp LeetCode (Blind 75), tập trung vào tư duy t
 
 ## 1. Arrays & Hashing
 
-| Status | Problem                                                                                          | Difficulty |                  Solution                  |
-| :----: | :----------------------------------------------------------------------------------------------- | :--------: | :----------------------------------------: |
-|   ⬜   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   | [View](./Arrays/217-contains-duplicate.py) |
-|   ⬜   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |   [View](./Arrays/242-valid-anagram.py)    |
-|   ⬜   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |                                            |
-|   ⬜   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |                                            |
-|   ⬜   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |                                            |
-|   ⬜   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |                                            |
-|   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                            |
-|   ⬜   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |                                            |
+| Status | Problem                                                                                          | Difficulty |                      Solution                       |
+| :----: | :----------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------: |
+|   ⬜   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   | [View](./Arrays/217-contains-duplicate/SOLUTION.md) |
+|   ⬜   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |                      [View]()                       |
+|   ⬜   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |                                                     |
+|   ⬜   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |                                                     |
+|   ⬜   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |                                                     |
+|   ⬜   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |                                                     |
+|   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                                     |
+|   ⬜   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |                                                     |
 
 ## 2. Two Pointers
 
