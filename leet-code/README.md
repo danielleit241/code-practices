@@ -16,7 +16,7 @@ Kho lưu trữ các giải pháp LeetCode (Blind 75), tập trung vào tư duy t
 
 | Status | Problem                                                                                          | Difficulty |                      Solution                       |
 | :----: | :----------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------: |
-|   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   | [View](./Arrays/217-contains-duplicate/SOLUTION.md) |
+|   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   | [View](./Arrays/217-contains-duplicate/solution.md) |
 |   ⬜   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |                      [View]()                       |
 |   ⬜   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |                                                     |
 |   ⬜   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |                                                     |
