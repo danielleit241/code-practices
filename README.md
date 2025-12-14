@@ -40,8 +40,8 @@ Mỗi bài tập sẽ bao gồm:
 
 ## 📊 Tiến độ
 
-| Platform | Solved | Total |
-| -------- | ------ | ----- |
-| LeetCode | 0      | TBD   |
+| Platform | Solved | Easy | Medium | Hard |
+| -------- | ------ | ---- | ------ | ---- |
+| LeetCode | 1      | 1    | 0      | 0    |
 
 ---
