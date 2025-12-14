@@ -1,4 +1,4 @@
-# 🐍 LeetCode Journey (Python Edition)
+# 🐍 LeetCode Journey
 
 Kho lưu trữ các giải pháp LeetCode (Blind 75), tập trung vào tư duy thuật toán và tối ưu hóa với Python.
 
