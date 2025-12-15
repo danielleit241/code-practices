@@ -1,5 +1,7 @@
 # 217. Contains Duplicate
 
+- Cho một mảng số nguyên nums, hàm trả về true nếu bất kỳ giá trị nào xuất hiện ít nhất hai lần trong mảng, và trả về false nếu mọi phần tử đều khác nhau.
+
 ## 1. Các cách giải với độ phức tạp O(n²)
 
 ### 1.1. BruteForce

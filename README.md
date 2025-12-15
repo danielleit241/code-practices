@@ -40,8 +40,8 @@ Mỗi bài tập sẽ bao gồm:
 
 ## 📊 Tiến độ
 
-| Platform | Solved | Easy | Medium | Hard |
-| -------- | ------ | ---- | ------ | ---- |
-| LeetCode | 1      | 1    | 0      | 0    |
+| Platform                                          | Solved | Easy | Medium | Hard |
+| ------------------------------------------------- | ------ | ---- | ------ | ---- |
+| [LeetCode](https://leetcode.com/u/danielleit241/) | 2      | 2    | 0      | 0    |
 
 ---
