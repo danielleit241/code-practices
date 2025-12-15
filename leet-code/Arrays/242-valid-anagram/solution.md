@@ -12,10 +12,17 @@
 
 **Cách hoạt động:**
 
-1. Kiểm tra độ dài khác nhau → `False`
-2. Chuyển s thành list
-3. Với mỗi ký tự trong t: tìm và xóa khỏi list, nếu không thấy → `False`
-4. List rỗng → `True`
+1. **Kiểm tra độ dài**: Nếu độ dài hai chuỗi khác nhau → trả về False ngay lập tức
+
+2. **Chuyển đổi**: Tạo một danh sách mới từ chuỗi s để có thể xóa phần tử
+
+3. **Duyệt và khớp**: Với mỗi ký tự trong chuỗi t:
+
+   - Tìm kiếm ký tự đó trong danh sách
+   - Nếu tìm thấy thì xóa ký tự khỏi danh sách
+   - Nếu không tìm thấy thì không phải anagram → trả về False
+
+4. **Kiểm tra cuối**: Nếu danh sách rỗng thì tất cả ký tự đã khớp → trả về True
 
 **Độ phức tạp:**
 
@@ -45,9 +52,18 @@ class Solution:
 
 **Cách hoạt động:**
 
-1. Kiểm tra độ dài khác nhau → `False`
-2. Với mỗi ký tự trong `set(s)`: so sánh `s.count(i)` và `t.count(i)`
-3. Nếu tất cả bằng nhau → `True`
+1. **Kiểm tra độ dài**: Nếu độ dài hai chuỗi khác nhau → trả về False
+
+2. **Tạo tập ký tự duy nhất**: Chuyển chuỗi s thành tập hợp để lấy các ký tự không trùng lặp
+
+3. **Duyệt và so sánh**: Với mỗi ký tự duy nhất trong tập hợp:
+
+   - Đếm số lần xuất hiện của ký tự đó trong chuỗi s
+   - Đếm số lần xuất hiện của ký tự đó trong chuỗi t
+   - Nếu số lần xuất hiện khác nhau → trả về False
+   - Nếu ký tự không có trong t → trả về False
+
+4. **Kết quả**: Nếu tất cả ký tự đều khớp về số lần xuất hiện → trả về True
 
 **Độ phức tạp:**
 
@@ -76,6 +92,16 @@ class Solution:
 
 **Ý tưởng**: Anagram khi sắp xếp sẽ giống nhau. Ví dụ: "listen" → "eilnst", "silent" → "eilnst"
 
+**Cách hoạt động:**
+
+1. **Sắp xếp chuỗi s**: Chuyển chuỗi thành danh sách và sắp xếp theo thứ tự alphabet
+
+2. **Sắp xếp chuỗi t**: Làm tương tự với chuỗi t
+
+3. **So sánh trực tiếp**: So sánh hai danh sách đã sắp xếp
+   - Nếu giống hệt nhau thì là anagram → trả về True
+   - Nếu khác nhau ở bất kỳ vị trí nào → trả về False
+
 **Độ phức tạp:**
 
 - Thời gian: O(nlogn) - Timsort ổn định cho mọi trường hợp
@@ -95,9 +121,19 @@ class Solution:
 
 **Cách hoạt động:**
 
-1. Kiểm tra độ dài khác nhau → `False`
-2. Duyệt song song s và t: ký tự từ s → +1, ký tự từ t → -1
-3. Nếu tất cả giá trị = 0 → `True`
+1. **Kiểm tra độ dài**: Nếu độ dài hai chuỗi khác nhau → trả về False
+
+2. **Khởi tạo bảng đếm**: Tạo một bảng băm rỗng để lưu số lần xuất hiện
+
+3. **Duyệt đồng thời**: Duyệt song song hai chuỗi s và t cùng lúc
+
+   - Với mỗi ký tự từ s: Tăng số đếm lên 1 trong bảng
+   - Với mỗi ký tự từ t: Giảm số đếm xuống 1 trong bảng
+   - Nếu là anagram thì phép cộng và trừ sẽ triệt tiêu lẫn nhau thành 0
+
+4. **Kiểm tra cân bằng**: Duyệt qua tất cả giá trị trong bảng băm
+   - Nếu tất cả giá trị đều bằng 0 → là anagram → trả về True
+   - Nếu bất kỳ giá trị nào khác 0 → không phải anagram → trả về False
 
 **Độ phức tạp:**
 
@@ -128,10 +164,19 @@ class Solution:
 
 **Cách hoạt động:**
 
-1. Kiểm tra độ dài khác nhau → `False`
-2. Khởi tạo array 26 phần tử = 0 (index 0='a', 1='b',...)
-3. Duyệt song song: ký tự từ s → +1, ký tự từ t → -1 tại vị trí `ord(char) - ord('a')`
-4. Tất cả giá trị = 0 → `True`
+1. **Kiểm tra độ dài**: Nếu độ dài hai chuỗi khác nhau → trả về False
+
+2. **Khởi tạo mảng đếm**: Tạo mảng có 26 phần tử tương ứng 26 chữ cái, giá trị ban đầu đều là 0
+
+3. **Duyệt đồng thời**: Duyệt song song hai chuỗi s và t cùng lúc
+
+   - Với mỗi ký tự từ s: Tính vị trí tương ứng trong mảng và tăng giá trị lên 1
+   - Với mỗi ký tự từ t: Tính vị trí tương ứng trong mảng và giảm giá trị xuống 1
+   - Nếu là anagram thì phép cộng và trừ sẽ triệt tiêu lẫn nhau
+
+4. **Kiểm tra cân bằng**: Kiểm tra tất cả 26 phần tử trong mảng
+   - Nếu tất cả giá trị đều bằng 0 → là anagram → trả về True
+   - Nếu có bất kỳ giá trị nào khác 0 → không phải anagram → trả về False
 
 **Độ phức tạp:**
 
