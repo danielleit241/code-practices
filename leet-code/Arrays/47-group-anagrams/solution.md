@@ -1,10 +1,10 @@
-# 47 Group Anagrams
+# [47 Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 - Cho một mảng các chuỗi strs, hãy nhóm các từ đảo chữ lại với nhau. Bạn có thể trả về kết quả theo bất kỳ thứ tự nào.
 
 ## 1. Các cách giải với độ phức tạp O(n²)
 
-### 1.1 Brute Force
+### 1.1 Brute Force - Time Limit Exceeded !!!
 
 **Ý tưởng:** Dùng 2 vòng lặp lồng nhau để so sánh từng cặp phần tử đã **được sắp xếp** trong mảng.
 
@@ -18,7 +18,7 @@
 
 **Độ phức tạp:**
 
-- Thời gian: O(n^2 \* k log k) với n là số chuỗi, k là độ dài trung bình của chuỗi
+- Thời gian: O(n² \* k log k) với n là số chuỗi, k là độ dài trung bình của chuỗi
 - Không gian: O(n + k)
 
 ```python

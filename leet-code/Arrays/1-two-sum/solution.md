@@ -20,7 +20,7 @@
 - Thời gian:
 
   - Best O(1) - Tìm thấy ngay ở cặp đầu tiên
-  - Worst O(n^2)
+  - Worst O(n²)
 
 - Không gian: O(1)
 
