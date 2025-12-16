@@ -17,7 +17,7 @@
 |   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   | [View](./Arrays/217-contains-duplicate/solution.md) |
 |   ✅   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |   [View](./Arrays/242-valid-anagram/solution.md)    |
 |   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |       [View](./Arrays/1-two-sum/solution.md)        |
-|   ⬜   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |                                                     |
+|   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |   [View](./Arrays/47-group-anagrams/solution.md)    |
 |   ⬜   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |                                                     |
 |   ⬜   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |                                                     |
 |   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                                     |
