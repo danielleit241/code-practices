@@ -42,6 +42,6 @@ Mỗi bài tập sẽ bao gồm:
 
 | Platform                                          | Solved | Easy | Medium | Hard |
 | ------------------------------------------------- | ------ | ---- | ------ | ---- |
-| [LeetCode](https://leetcode.com/u/danielleit241/) | 4      | 3    | 1      | 0    |
+| [LeetCode](https://leetcode.com/u/danielleit241/) | 5      | 3    | 2      | 0    |
 
 ---
