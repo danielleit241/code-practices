@@ -1,4 +1,4 @@
-# 238 [Product of Array Expect Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+# [238 Product of Array Expect Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 - Cho một mảng số nguyên nums, hãy trả về một mảng answer sao cho answer[i] bằng tích của tất cả các phần tử của nums ngoại trừ nums[i].
 - Tích của bất kỳ tiền tố hoặc hậu tố nào của nums được đảm bảo nằm trong một số nguyên 32 bit.
