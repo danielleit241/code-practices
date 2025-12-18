@@ -8,7 +8,7 @@
 
 ### 1.1. BruteForce
 
-**Ý tưởng**: Chuyển s thành list, duyệt t và xóa ký tự tương ứng.
+**Ý tưởng:** Chuyển s thành list, duyệt t và xóa ký tự tương ứng.
 
 **Cách hoạt động:**
 

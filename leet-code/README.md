@@ -8,20 +8,26 @@
 |   ✅   | Solved      |
 |   🚧   | Need Review |
 
+## 📚 Study Guidelines
+
+> **⚠️ Quan trọng:** Sau khi hoàn thành TẤT CẢ các bài trong một chủ đề, hãy review lại toàn bộ trên LeetCode để củng cố kiến thức!
+
 ---
 
 ## 1. Arrays & Hashing
 
-| Status | Problem                                                                                          | Difficulty |                         Solution                         |
-| :----: | :----------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------: |
-|   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   |   [View](./Arrays/217-contains-duplicate/solution.md)    |
-|   ✅   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |      [View](./Arrays/242-valid-anagram/solution.md)      |
-|   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |          [View](./Arrays/1-two-sum/solution.md)          |
-|   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |      [View](./Arrays/47-group-anagrams/solution.md)      |
-|   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   | [View](./Arrays/347-top-k-frequent-elements/solution.md) |
-|   ⬜   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |                                                          |
-|   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                                          |
-|   ⬜   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |                                                          |
+| Status | Problem                                                                                          | Difficulty |                           Solution                            |
+| :----: | :----------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------: |
+|   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   |      [View](./Arrays/217-contains-duplicate/solution.md)      |
+|   ✅   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |        [View](./Arrays/242-valid-anagram/solution.md)         |
+|   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |            [View](./Arrays/1-two-sum/solution.md)             |
+|   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |        [View](./Arrays/47-group-anagrams/solution.md)         |
+|   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays/347-top-k-frequent-elements/solution.md)    |
+|   ✅   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   | [View](./Arrays/238-product-of-array-except-self/solution.md) |
+|   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                                               |
+|   ⬜   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |                                                               |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 2. Two Pointers
 
@@ -31,6 +37,8 @@
 |   ⬜   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |          |
 |   ⬜   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   🟡 Med   |          |
 
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+
 ## 3. Sliding Window
 
 | Status | Problem                                                                                                                            | Difficulty | Solution |
@@ -39,6 +47,8 @@
 |   ⬜   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   🟡 Med   |          |
 |   ⬜   | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)             |   🟡 Med   |          |
 |   ⬜   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                            |  🔴 Hard   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 4 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 4. Stack
 
@@ -52,6 +62,8 @@
 |   ⬜   | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               |   🟡 Med   |          |
 |   ⬜   | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      |  🔴 Hard   |          |
 
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+
 ## 5. Binary Search
 
 | Status | Problem                                                                                                          | Difficulty | Solution |
@@ -63,6 +75,8 @@
 |   ⬜   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)              |   🟡 Med   |          |
 |   ⬜   | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   🟡 Med   |          |
 |   ⬜   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     |  🔴 Hard   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 6. Linked List
 
@@ -77,6 +91,8 @@
 |   ⬜   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |  🟢 Easy   |          |
 |   ⬜   | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              |   🟡 Med   |          |
 |   ⬜   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 9 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 7. Trees
 
@@ -97,6 +113,8 @@
 |   ⬜   | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           |  🔴 Hard   |          |
 |   ⬜   | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         |  🔴 Hard   |          |
 
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 14 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+
 ## 8. Tries & Heap
 
 | Status | Problem                                                                                                                      | Difficulty | Solution |
@@ -109,6 +127,8 @@
 |   ⬜   | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       |   🟡 Med   |          |
 |   ⬜   | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                             |  🔴 Hard   |          |
 
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+
 ## 9. Backtracking
 
 | Status | Problem                                                               | Difficulty | Solution |
@@ -118,6 +138,8 @@
 |   ⬜   | [46. Permutations](https://leetcode.com/problems/permutations/)       |   🟡 Med   |          |
 |   ⬜   | [90. Subsets II](https://leetcode.com/problems/subsets-ii/)           |   🟡 Med   |          |
 |   ⬜   | [79. Word Search](https://leetcode.com/problems/word-search/)         |   🟡 Med   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 5 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 10. Graphs
 
@@ -131,6 +153,8 @@
 |   ⬜   | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                         |   🟡 Med   |          |
 |   ⬜   | [207. Course Schedule](https://leetcode.com/problems/course-schedule/)                         |   🟡 Med   |          |
 |   ⬜   | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                   |   🟡 Med   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 11. Dynamic Programming (1D & 2D)
 
@@ -150,6 +174,8 @@
 |   ⬜   | [62. Unique Paths](https://leetcode.com/problems/unique-paths/)                                      |   🟡 Med   |          |
 |   ⬜   | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)        |   🟡 Med   |          |
 
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 13 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+
 ## 12. Intervals
 
 | Status | Problem                                                                                    | Difficulty | Solution |
@@ -157,6 +183,8 @@
 |   ⬜   | [57. Insert Interval](https://leetcode.com/problems/insert-interval/)                      |   🟡 Med   |          |
 |   ⬜   | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                      |   🟡 Med   |          |
 |   ⬜   | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |   🟡 Med   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 13. Bit Manipulation
 
@@ -168,3 +196,5 @@
 |   ⬜   | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)               |  🟢 Easy   |          |
 |   ⬜   | [268. Missing Number](https://leetcode.com/problems/missing-number/)           |  🟢 Easy   |          |
 |   ⬜   | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |   🟡 Med   |          |
+
+- [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 6 bài trên LeetCode trước khi kết thúc!
