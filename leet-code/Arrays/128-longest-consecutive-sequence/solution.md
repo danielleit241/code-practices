@@ -25,8 +25,8 @@ Bạn phải viết một thuật toán chạy trong thời gian O(n).
 - **Thời gian:** O(n log n) - do phải sắp xếp mảng
 - **Không gian:** O(n) - do tạo set để loại bỏ phần tử trùng lặp
 
-<details>
-<summary><b>🐍 Python Version</b> (Click để mở)</summary>
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
 
 ```python
 class Solution:
@@ -49,8 +49,8 @@ class Solution:
 
 </details>
 
-<details>
-<summary><b>💠 CSharp Version</b> (Click để mở)</summary>
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
 
 ```csharp
 public class Solution{
@@ -98,8 +98,8 @@ public class Solution{
 - **Thời gian:** O(n) - mỗi số chỉ được duyệt qua tối đa 2 lần (1 lần trong vòng lặp chính, 1 lần khi đếm chuỗi)
 - **Không gian:** O(n) - sử dụng HashSet để lưu trữ n phần tử
 
-<details>
-<summary><b>🐍 Python Version</b> (Click để mở)</summary>
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
 
 ```python
 class Solution:
@@ -121,8 +121,8 @@ class Solution:
 
 </details>
 
-<details>
-<summary><b>💠 CSharp Version</b> (Click để mở)</summary>
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
 
 ```csharp
 public class Solution{
