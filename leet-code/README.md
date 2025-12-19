@@ -24,7 +24,7 @@
 |   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |        [View](./Arrays/47-group-anagrams/solution.md)         |
 |   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays/347-top-k-frequent-elements/solution.md)    |
 |   ✅   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   | [View](./Arrays/238-product-of-array-except-self/solution.md) |
-|   ⬜   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   |                                                               |
+|   ✅   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays/128-longest-consecutive-sequence/solution.md) |
 |   ⬜   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |                                                               |
 
 - [ ] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
