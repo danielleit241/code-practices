@@ -4,9 +4,7 @@ Repository chứa các bài tập lập trình và thực hành thuật toán.
 
 ## 📊 Tiến độ
 
-| Platform                                          | Solved | Easy | Medium | Hard |
-| ------------------------------------------------- | ------ | ---- | ------ | ---- |
-| [LeetCode](https://leetcode.com/u/danielleit241/) | 7      | 3    | 4      | 0    |
+![LeetCode Stats](https://leetcard.jacoblin.cool/danielleit241?theme=light&font=Flamenco)
 
 ## 📁 Cấu trúc thư mục
 
