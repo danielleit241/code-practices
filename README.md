@@ -2,6 +2,12 @@
 
 Repository chứa các bài tập lập trình và thực hành thuật toán.
 
+## 📊 Tiến độ
+
+| Platform                                          | Solved | Easy | Medium | Hard |
+| ------------------------------------------------- | ------ | ---- | ------ | ---- |
+| [LeetCode](https://leetcode.com/u/danielleit241/) | 7      | 3    | 4      | 0    |
+
 ## 📁 Cấu trúc thư mục
 
 - **leet-code/** - Các bài tập từ LeetCode
@@ -37,11 +43,3 @@ Mỗi bài tập sẽ bao gồm:
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Codeforces](https://codeforces.com/)
-
-## 📊 Tiến độ
-
-| Platform                                          | Solved | Easy | Medium | Hard |
-| ------------------------------------------------- | ------ | ---- | ------ | ---- |
-| [LeetCode](https://leetcode.com/u/danielleit241/) | 7      | 3    | 4      | 0    |
-
----
