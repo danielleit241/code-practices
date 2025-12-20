@@ -108,6 +108,9 @@ class Solution:
 - Thời gian: O(n) - duyệt qua mảng 1 lần, tra cứu Set là O(1)
 - Không gian: O(n) - trong trường hợp xấu nhất lưu tất cả phần tử vào Set
 
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
+
 ```python
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
@@ -118,6 +121,28 @@ class Solution:
             seen.add(num)
         return False
 ```
+
+</details>
+
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
+
+```csharp
+public class Solution{
+    public bool ContainsDuplicate(int[] nums){
+        HashSet<int> seen = new HashSet<int>();
+        foreach(int num in nums){
+            if(seen.Contains(num)){
+                return true;
+            }
+            seen.Add(num);
+        }
+        return false;
+    }
+}
+```
+
+</details>
 
 **Cách 2: So sánh độ dài**
 
@@ -133,11 +158,30 @@ class Solution:
 - Thời gian: O(n) - tạo Set từ mảng
 - Không gian: O(n) - lưu trữ Set
 
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
+
 ```python
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
         return len(nums) != len(set(nums))
 ```
+
+</details>
+
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
+
+```csharp
+public class Solution{
+    public bool ContainsDuplicate(int[] nums){
+        HashSet<int> uniqueNums = new HashSet<int>(nums);
+        return uniqueNums.Count < nums.Length;
+    }
+}
+```
+
+</details>
 
 ---
 
@@ -158,6 +202,9 @@ class Solution:
 - Thời gian: O(n) - duyệt qua mảng 1 lần, tra cứu Dictionary là O(1)
 - Không gian: O(n) - trong trường hợp xấu nhất lưu tất cả phần tử vào Dictionary
 
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
+
 ```python
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
@@ -168,6 +215,28 @@ class Solution:
             num_count[num] = 1
         return False
 ```
+
+</details>
+
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
+
+```csharp
+public class Solution{
+    public bool ContainsDuplicate(int[] nums){
+        Dictionary<int, int> countMap = new Dictionary<int, int>();
+        foreach(int num in nums){
+            if(countMap.ContainsKey(num)){
+                return true;
+            }
+            countMap[num] = 1;
+        }
+        return false;
+    }
+}
+```
+
+</details>
 
 ---
 
