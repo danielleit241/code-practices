@@ -32,7 +32,7 @@
 
 | Status | Review | Problem                                                                                   | Difficulty | Solution |
 | :----: | :----: | :---------------------------------------------------------------------------------------- | :--------: | :------: |
-|   ⬜   |   🔄   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |          |
+|   ✅   |   🔄   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |          |[View](./Two%20Pointers/125-valid-palindrome/solution.md)
 |   ⬜   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |          |
 |   ⬜   |   🔄   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   🟡 Med   |          |
 
