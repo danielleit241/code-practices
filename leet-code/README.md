@@ -33,7 +33,7 @@
 | Status | Review | Problem                                                                                   | Difficulty |                             Solution                              |
 | :----: | :----: | :---------------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------: |
 |   ✅   |   🔄   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |     [View](./Two%20Pointers/125-valid-palindrome/solution.md)     |
-|   ⬜   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |                                                                   |
+|   ✅   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |  [View](./Two%20Pointers/15-3sum/solution.md)                                                                 |
 |   ✅   |   🔄   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   🟡 Med   | [View](./Two%20Pointers/11-container-with-most-water/solution.md) |
 
 - [0/3] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
