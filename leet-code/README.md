@@ -15,16 +15,16 @@
 
 ## 1. Arrays & Hashing
 
-| Status | Review | Problem                                                                                          | Difficulty |                           Solution                            |
-| :----: | :----: | :----------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------: |
-|   ✅   |   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   |      [View](./Arrays/217-contains-duplicate/solution.md)      |
-|   ✅   |   ✅   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |        [View](./Arrays/242-valid-anagram/solution.md)         |
-|   ✅   |   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |            [View](./Arrays/1-two-sum/solution.md)             |
-|   ✅   |   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |        [View](./Arrays/47-group-anagrams/solution.md)         |
-|   ✅   |   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays/347-top-k-frequent-elements/solution.md)    |
-|   ✅   |   🔄   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   | [View](./Arrays/238-product-of-array-except-self/solution.md) |
-|   ✅   |   🔄   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays/128-longest-consecutive-sequence/solution.md) |
-|   ✅   |   🔄   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays/659-endcode-and-decode-strings/solution.md)  |
+| Status | Review | Problem                                                                                          | Difficulty |                                  Solution                                   |
+| :----: | :----: | :----------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------: |
+|   ✅   |   ✅   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     |  🟢 Easy   |      [View](./Arrays%20&%20Hashing/217-contains-duplicate/solution.md)      |
+|   ✅   |   ✅   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |  🟢 Easy   |        [View](./Arrays%20&%20Hashing/242-valid-anagram/solution.md)         |
+|   ✅   |   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |            [View](./Arrays%20&%20Hashing/1-two-sum/solution.md)             |
+|   ✅   |   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |        [View](./Arrays%20&%20Hashing/47-group-anagrams/solution.md)         |
+|   ✅   |   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays%20&%20Hashing/347-top-k-frequent-elements/solution.md)    |
+|   ✅   |   🔄   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |        [View](./Arrays/238-product-of-array-except-self/solution.md)        |
+|   ✅   |   🔄   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays%20&%20Hashing/128-longest-consecutive-sequence/solution.md) |
+|   ✅   |   🔄   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays%20&%20Hashing/659-endcode-and-decode-strings/solution.md)  |
 
 - [5/8] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
