@@ -1,4 +1,6 @@
 class Solution:
+    # Time Complexity: O(n^2)
+    # Space Complexity: O(1)
     def maxProfit_BruteForce(self, prices: list[int]) -> int:
         res = 0
         n = len(prices)
@@ -9,7 +11,9 @@ class Solution:
                 res = max(res, sell - buy)
         return res 
     
-    def maxProfit_OnePass(self, prices: list[int]) -> int:
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
+    def maxProfit_DynamicProgramming(self, prices: list[int]) -> int:
         res = 0
         n = len(prices)
         min_price = float('inf')
@@ -19,6 +23,8 @@ class Solution:
 
         return res
     
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
     def maxProfit_SlidingWindow(self, prices: list[int]) -> int:
         res = 0
         left = 0

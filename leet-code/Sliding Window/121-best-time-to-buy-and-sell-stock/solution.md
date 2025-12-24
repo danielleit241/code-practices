@@ -37,7 +37,7 @@ class Solution:
 
 ## 2. Các cách giải với độ phức tạp O(n)
 
-### 2.1. One Pass (Sliding Window)
+### 2.1. One Pass (Dynamic Programming)
 
 **Ý tưởng:** Duy trì giá thấp nhất đã gặp cho đến hiện tại và tính lợi nhuận với giá hiện tại.
 
