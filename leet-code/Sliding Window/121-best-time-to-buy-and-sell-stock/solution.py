@@ -27,16 +27,15 @@ class Solution:
     # Space Complexity: O(1)
     def maxProfit_SlidingWindow(self, prices: list[int]) -> int:
         res = 0
-        left = 0
-        right = 1
+        buy = 0
+        sell = 1
         n = len(prices)
-        while right < n:
-            if prices[left] < prices[right]:
-                res = max(res, prices[right] - prices[left])
+        while sell < n:
+            if prices[buy] < prices[sell]:
+                res = max(res, prices[sell] - prices[buy])
             else:
-                left = right
+                buy = sell
 
-            right += 1
-
+            sell += 1
         return res
             
