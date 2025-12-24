@@ -33,19 +33,19 @@
 | Status | Review | Problem                                                                                   | Difficulty |                             Solution                              |
 | :----: | :----: | :---------------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------: |
 |   ✅   |   🔄   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |     [View](./Two%20Pointers/125-valid-palindrome/solution.md)     |
-|   ✅   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |  [View](./Two%20Pointers/15-3sum/solution.md)                                                                 |
+|   ✅   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |           [View](./Two%20Pointers/15-3sum/solution.md)            |
 |   ✅   |   🔄   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   🟡 Med   | [View](./Two%20Pointers/11-container-with-most-water/solution.md) |
 
 - [0/3] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 3. Sliding Window
 
-| Status | Review | Problem                                                                                                                            | Difficulty | Solution |
-| :----: | :----: | :--------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------: |
-|   ⬜   |   🔄   | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                             |  🟢 Easy   |          |
-|   ⬜   |   🔄   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   🟡 Med   |          |
-|   ⬜   |   🔄   | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)             |   🟡 Med   |          |
-|   ⬜   |   🔄   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                            |  🔴 Hard   |          |
+| Status | Review | Problem                                                                                                                            | Difficulty |                                  Solution                                  |
+| :----: | :----: | :--------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------: |
+|   ✅   |   🔄   | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                             |  🟢 Easy   | [View](./Sliding%20Window/121-best-time-to-buy-and-sell-stock/solution.md) |
+|   ⬜   |   🔄   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   🟡 Med   |                                                                            |
+|   ⬜   |   🔄   | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)             |   🟡 Med   |                                                                            |
+|   ⬜   |   🔄   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                            |  🔴 Hard   |                                                                            |
 
 - [0/4] **📝 Hoàn thành chủ đề:** Review lại tất cả 4 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
