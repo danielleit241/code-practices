@@ -20,6 +20,20 @@
 - Thời gian: O(n²)
 - Không gian: O(m) - với m là kích thước bảng chữ cái
 
+```python
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        res = 0
+        for i in range(len(s)):
+            seen = set()
+            for j in range(i, len(s)):
+                if s[j] in seen:
+                    break
+                seen.add(s[j])
+            res = max(res, j - i)
+        return res
+```
+
 ## 2. Các cách giải với độ phức tạp O(n)
 
 ### 2.1. Sliding Window với Set
