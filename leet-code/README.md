@@ -26,7 +26,7 @@
 |   ✅   |   🔄   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays%20&%20Hashing/128-longest-consecutive-sequence/solution.md) |
 |   ✅   |   🔄   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays%20&%20Hashing/659-endcode-and-decode-strings/solution.md)  |
 
-- [5/8] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+- [6/8] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 2. Two Pointers
 

@@ -126,22 +126,26 @@ class Solution:
 
 ```csharp
 public class Solution{
-    public int LongestConsecutive(int[] nums){
+    public int LongestConsecutive(int[] nums) {
         if (nums.Length == 0) return 0;
-        HashSet<int> numSet = new HashSet<int>(nums);
-        int longest = 0;
-        foreach(int num in numSet){
-            if(!numSet.Contains(num - 1)){
-                int current = 1;
-                int nextNum = num + 1;
-                while(numSet.Contains(nextNum)){
-                    current++;
-                    nextNum++;
+        HashSet<int> set = new(nums);
+        var res = 0;
+        foreach(var num in set)
+        {
+            if(!set.Contains(num - 1))
+            {
+                var longChars = 1;
+                var next = num + 1;
+                while(set.Contains(next))
+                {
+                    longChars += 1;
+                    next += 1;
                 }
-                longest = Math.Max(longest, current);
+                res = Math.Max(res, longChars);
             }
         }
-        return longest;
+        return res;
+    }
 }
 ```
 
