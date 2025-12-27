@@ -22,7 +22,7 @@
 |   ✅   |   ✅   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                             |  🟢 Easy   |            [View](./Arrays%20&%20Hashing/1-two-sum/solution.md)             |
 |   ✅   |   ✅   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |   🟡 Med   |        [View](./Arrays%20&%20Hashing/47-group-anagrams/solution.md)         |
 |   ✅   |   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays%20&%20Hashing/347-top-k-frequent-elements/solution.md)    |
-|   ✅   |   🔄   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |        [View](./Arrays/238-product-of-array-except-self/solution.md)        |
+|   ✅   |   ✅   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |        [View](./Arrays/238-product-of-array-except-self/solution.md)        |
 |   ✅   |   🔄   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays%20&%20Hashing/128-longest-consecutive-sequence/solution.md) |
 |   ✅   |   🔄   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays%20&%20Hashing/659-endcode-and-decode-strings/solution.md)  |
 

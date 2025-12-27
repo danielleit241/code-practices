@@ -59,6 +59,9 @@ class Solution:
 - Thời gian: O(n) - hai lần duyệt mảng
 - Không gian: O(1) - không tính mảng output, chỉ sử dụng biến right
 
+<details open>
+<summary><b>🐍 Python Version</b> (Click để đóng)</summary>
+
 ```python
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
@@ -72,6 +75,37 @@ class Solution:
             right *= nums[i]
         return res
 ```
+
+</details>
+
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
+
+```csharp
+public class Solution {
+    public int[] ProductExceptSelf(int[] nums) {
+        var n = nums.Length;
+        var res = new int[n];
+
+        res[0] = 1;
+        for(var i = 1; i < n; i++)
+        {
+            res[i] = res[i-1] * nums[i-1];
+        }
+
+        var right = 1;
+        for(var i = n - 1; i >= 0; i--)
+        {
+            res[i] *= right;
+            right *= nums[i];
+        }
+
+        return res;
+    }
+}
+```
+
+</details>
 
 ### 2.2 Division
 
