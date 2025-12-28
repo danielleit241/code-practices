@@ -1,10 +1,8 @@
 # Code Practices
 
-Repository chứa các bài tập lập trình và thực hành thuật toán.
-
 ## 📊 Tiến độ
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/danielleit241?theme=light&font=Flamenco)
+![LeetCode Stats](https://leetcard.jacoblin.cool/danielleit241?theme=light&font=Fira%20Code&ext=heatmap)
 
 ## 📁 Cấu trúc thư mục
 
