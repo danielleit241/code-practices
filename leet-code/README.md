@@ -54,7 +54,7 @@
 | Status | Review | Problem                                                                                                  | Difficulty |                     Solution                     |
 | :----: | :----: | :------------------------------------------------------------------------------------------------------- | :--------: | :----------------------------------------------: |
 |   ✅   |   🔄   | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                |  🟢 Easy   | [View](./Stack/20-valid-parentheses/solution.md) |
-|   ⬜   |   🔄   | [155. Min Stack](https://leetcode.com/problems/min-stack/)                                               |   🟡 Med   |                                                  |
+|   ✅   |   🔄   | [155. Min Stack](https://leetcode.com/problems/min-stack/)                                               |   🟡 Med   |    [View](./Stack/155-min-stack/solution.md)     |
 |   ⬜   |   🔄   | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |   🟡 Med   |                                                  |
 |   ⬜   |   🔄   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                          |   🟡 Med   |                                                  |
 |   ⬜   |   🔄   | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   🟡 Med   |                                                  |
