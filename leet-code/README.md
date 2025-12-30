@@ -24,19 +24,19 @@
 |   ✅   |   ✅   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |   🟡 Med   |   [View](./Arrays%20&%20Hashing/347-top-k-frequent-elements/solution.md)    |
 |   ✅   |   ✅   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |   🟡 Med   |        [View](./Arrays/238-product-of-array-except-self/solution.md)        |
 |   ✅   |   ✅   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |   🟡 Med   | [View](./Arrays%20&%20Hashing/128-longest-consecutive-sequence/solution.md) |
-|   ✅   |   🔄   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays%20&%20Hashing/659-endcode-and-decode-strings/solution.md)  |
+|   ✅   |   ✅   | [659. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |   🟡 Med   |  [View](./Arrays%20&%20Hashing/659-encode-and-decode-strings/solution.md)   |
 
-- [7/8] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+- [✅] **📝 Hoàn thành chủ đề:** Review lại tất cả 8 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 2. Two Pointers
 
 | Status | Review | Problem                                                                                   | Difficulty |                             Solution                              |
 | :----: | :----: | :---------------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------: |
-|   ✅   |   🔄   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |     [View](./Two%20Pointers/125-valid-palindrome/solution.md)     |
+|   ✅   |   ✅   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |  🟢 Easy   |     [View](./Two%20Pointers/125-valid-palindrome/solution.md)     |
 |   ✅   |   🔄   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                           |   🟡 Med   |           [View](./Two%20Pointers/15-3sum/solution.md)            |
 |   ✅   |   🔄   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   🟡 Med   | [View](./Two%20Pointers/11-container-with-most-water/solution.md) |
 
-- [0/3] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
+- [1/3] **📝 Hoàn thành chủ đề:** Review lại tất cả 3 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
 ## 3. Sliding Window
 

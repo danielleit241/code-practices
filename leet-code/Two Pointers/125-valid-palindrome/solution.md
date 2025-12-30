@@ -160,3 +160,40 @@ class Solution:
 ```
 
 </details>
+
+</details>
+
+<details open>
+<summary><b>💠 CSharp Version</b> (Click để đóng)</summary>
+
+```csharp
+public class Solution
+{
+    public bool IsPalindrome(string s)
+    {
+        int left = 0;
+        int right = s.Length - 1;
+
+        while(left < right)
+        {
+            while(left < right && !char.IsLetterOrDigit(s[left]))
+            {
+                left++;
+            }
+            while(left < right && !char.IsLetterOrDigit(s[right]))
+            {
+                right--;
+            }
+            if(char.ToLower(s[left]) != char.ToLower(s[right]))
+            {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
+```
+
+</details>
