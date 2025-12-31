@@ -57,7 +57,7 @@
 |   ✅   |   🔄   | [155. Min Stack](https://leetcode.com/problems/min-stack/)                                               |   🟡 Med   |            [View](./Stack/155-min-stack/solution.md)             |
 |   ✅   |   🔄   | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |   🟡 Med   | [View](./Stack/150-evaluate-reverse-polish-notation/solution.md) |
 |   ✅   |   🔄   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                          |   🟡 Med   |       [View](./Stack/22-generate-parentheses/solution.md)        |
-|   ⬜   |   🔄   | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   🟡 Med   |                                                                  |
+|   ✅   |   🔄   | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   🟡 Med   |        [View](./Stack/739-daily-temperatures/solution.md)        |
 |   ⬜   |   🔄   | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               |   🟡 Med   |                                                                  |
 |   ⬜   |   🔄   | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      |  🔴 Hard   |                                                                  |
 
