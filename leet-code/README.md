@@ -59,7 +59,7 @@
 |   ✅   |   🔄   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                          |   🟡 Med   |       [View](./Stack/22-generate-parentheses/solution.md)        |
 |   ✅   |   🔄   | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   🟡 Med   |        [View](./Stack/739-daily-temperatures/solution.md)        |
 |   ✅   |   🔄   | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               |   🟡 Med   |            [View](./Stack//853-car-fleet/solution.md)            |
-|   ⬜   |   🔄   | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      |  🔴 Hard   |                                                                  |
+|   ✅   |   🔄   | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      |  🔴 Hard   |  [View](./Stack/84-largest-rectangle-in-histogram/solution.md)   |
 
 - [0/7] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
