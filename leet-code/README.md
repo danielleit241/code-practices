@@ -65,15 +65,15 @@
 
 ## 5. Binary Search
 
-| Status | Review | Problem                                                                                                          | Difficulty | Solution |
-| :----: | :----: | :--------------------------------------------------------------------------------------------------------------- | :--------: | :------: |
-|   ⬜   |   🔄   | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                               |  🟢 Easy   |          |
-|   ⬜   |   🔄   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                      |   🟡 Med   |          |
-|   ⬜   |   🔄   | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                   |   🟡 Med   |          |
-|   ⬜   |   🔄   | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |   🟡 Med   |          |
-|   ⬜   |   🔄   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)              |   🟡 Med   |          |
-|   ⬜   |   🔄   | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   🟡 Med   |          |
-|   ⬜   |   🔄   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     |  🔴 Hard   |          |
+| Status | Review | Problem                                                                                                          | Difficulty |                        Solution                         |
+| :----: | :----: | :--------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------: |
+|   ✅   |   🔄   | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                               |  🟢 Easy   | [View](./Binary%20Search/704-binary-search/solution.md) |
+|   ⬜   |   🔄   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                      |   🟡 Med   |                                                         |
+|   ⬜   |   🔄   | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                   |   🟡 Med   |                                                         |
+|   ⬜   |   🔄   | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |   🟡 Med   |                                                         |
+|   ⬜   |   🔄   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)              |   🟡 Med   |                                                         |
+|   ⬜   |   🔄   | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   🟡 Med   |                                                         |
+|   ⬜   |   🔄   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     |  🔴 Hard   |                                                         |
 
 - [0/7] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
