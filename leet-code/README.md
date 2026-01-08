@@ -72,7 +72,7 @@
 |   ✅   |   🔄   | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                   |   🟡 Med   |          [View](./Binary%20Search/74-search-a-2d-matrix/solution.md)           |
 |   ✅   |   🔄   | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |   🟡 Med   | [View](./Binary%20Search/153-find-minimum-in-rotated-sorted-array/solution.md) |
 |   ✅   |   🔄   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)              |   🟡 Med   |    [View](./Binary%20Search/33-search-in-rotated-sorted-array/solution.md)     |
-|   ⬜   |   🔄   | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   🟡 Med   |                                                                                |
+|   ✅   |   🔄   | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   🟡 Med   |      [View](./Binary%20Search/981-time-based-key-value-store/solution.md)      |
 |   ⬜   |   🔄   | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     |  🔴 Hard   |                                                                                |
 
 - [0/7] **📝 Hoàn thành chủ đề:** Review lại tất cả 7 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
