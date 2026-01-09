@@ -39,3 +39,31 @@ class Solution:
         else:
             return merged[mid]
         
+    def findMedianSortedArrays_BinarySearch(self, nums1: list[int], nums2: list[int]) -> float:
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
+
+        if len(A) > len(B):
+            A, B = B, A
+
+        left, right = 0, len(A) - 1
+        while True:
+            mA = (left + right) // 2
+            mB = half - mA - 2
+
+            aLeft = A[mA] if mA >= 0 else float('-infinity')
+            aRight = A[mA + 1] if (mA + 1) < len(A) else float('infinity')
+
+            bLeft = B[mB] if mB >= 0 else float('-infinity')
+            bRight = B[mB + 1] if (mB + 1) < len(B) else float('infinity') 
+
+            if aLeft <= bRight and bLeft <= aRight:
+                if total % 2:
+                    return min(aRight, bRight)
+                else:
+                    return (max(aLeft, bLeft) + min(aRight, bRight)) / 2
+            elif aLeft > bRight:
+                right = mA - 1
+            else:
+                left = mA + 1

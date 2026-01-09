@@ -24,7 +24,7 @@ Kết hợp và sắp xếp hai mảng, sau đó sử dụng hàm `median()` có
 
 ```python
 class Solution:
-    def findMedianSortedArrays_Sorted1(self, nums1: list[int], nums2: list[int]) -> float:
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         return median(sorted(nums1 + nums2))
 ```
 
@@ -47,7 +47,7 @@ Kết hợp và sắp xếp hai mảng, sau đó tính trung vị theo cách th�
 
 ```python
 class Solution:
-    def findMedianSortedArrays_Sorted2(self, nums1: list[int], nums2: list[int]) -> float:
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         nums = sorted(nums1 + nums2)
         length = len(nums)
         mid = length // 2
@@ -83,7 +83,7 @@ Tận dụng tính chất hai mảng đã được sắp xếp để merge chún
 
 ```python
 class Solution:
-    def findMedianSortedArrays_Merge(self, nums1: list[int], nums2: list[int]) -> float:
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         merged = []
         i, j = 0, 0
 
@@ -112,7 +112,7 @@ class Solution:
 
 ## 3. Các cách giải với độ phức tạp O(log(min(m,n)))
 
-### 3.1 Binary Search (Tối ưu - TODO)
+### 3.1 Binary Search
 
 **Ý tưởng:**
 Để đạt được độ phức tạp O(log(m+n)), cần sử dụng binary search trên mảng nhỏ hơn để phân vùng hai mảng sao cho:
@@ -132,3 +132,35 @@ class Solution:
 
 - Thời gian: O(log(min(m,n))) - binary search trên mảng nhỏ hơn
 - Không gian: O(1) - chỉ sử dụng một số biến cố định
+
+```python
+class Solution:
+        def findMedianSortedArrays_BinarySearch(self, nums1: list[int], nums2: list[int]) -> float:
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
+
+        if len(A) > len(B):
+            A, B = B, A
+
+        left, right = 0, len(A) - 1
+        while True:
+            mA = (left + right) // 2
+            mB = half - mA - 2
+
+            aLeft = A[mA] if mA >= 0 else float('-infinity')
+            aRight = A[mA + 1] if (mA + 1) < len(A) else float('infinity')
+
+            bLeft = B[mB] if mB >= 0 else float('-infinity')
+            bRight = B[mB + 1] if (mB + 1) < len(B) else float('infinity')
+
+            if aLeft <= bRight and bLeft <= aRight:
+                if total % 2:
+                    return min(aRight, bRight)
+                else:
+                    return (max(aLeft, bLeft) + min(aRight, bRight)) / 2
+            elif aLeft > bRight:
+                right = mA - 1
+            else:
+                left = mA + 1
+```
