@@ -6,7 +6,7 @@
 
 ## 1. Các cách giải với độ phức tạp O((m+n)log(m+n))
 
-### 1.1 Sử dụng hàm có sẵn (Sorted1)
+### 1.1 Sử dụng hàm có sẵn (Sorted + Median)
 
 **Ý tưởng:**
 Kết hợp và sắp xếp hai mảng, sau đó sử dụng hàm `median()` có sẵn trong Python để tính trung vị.
@@ -28,7 +28,7 @@ class Solution:
         return median(sorted(nums1 + nums2))
 ```
 
-### 1.2 Sắp xếp và tính trung vị thủ công (Sorted2)
+### 1.2 Sắp xếp và tính trung vị thủ công (Sorted)
 
 **Ý tưởng:**
 Kết hợp và sắp xếp hai mảng, sau đó tính trung vị theo cách thủ công dựa vào độ dài mảng.
