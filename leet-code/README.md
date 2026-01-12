@@ -83,7 +83,7 @@
 | :----: | :----: | :------------------------------------------------------------------------------------------------------ | :--------: | :-----------------------------------------------------------: |
 |   ✅   |   🔄   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                          |  🟢 Easy   |  [View](./Linked%20List/206-reverse-linked-list/solution.md)  |
 |   ✅   |   🔄   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     |  🟢 Easy   | [View](./Linked%20List/21-merge-two-sorted-lists/solution.md) |
-|   ⬜   |   🔄   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                        |   🟡 Med   |                                                               |
+|   ✅   |   🔄   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                        |   🟡 Med   |        [View](./Linked%20List/143-reorder/solution.py)        |
 |   ⬜   |   🔄   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   🟡 Med   |                                                               |
 |   ⬜   |   🔄   | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)      |   🟡 Med   |                                                               |
 |   ⬜   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |                                                               |
