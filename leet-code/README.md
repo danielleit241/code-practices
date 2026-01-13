@@ -79,17 +79,17 @@
 
 ## 6. Linked List
 
-| Status | Review | Problem                                                                                                 | Difficulty |                           Solution                            |
-| :----: | :----: | :------------------------------------------------------------------------------------------------------ | :--------: | :-----------------------------------------------------------: |
-|   ✅   |   🔄   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                          |  🟢 Easy   |  [View](./Linked%20List/206-reverse-linked-list/solution.md)  |
-|   ✅   |   🔄   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     |  🟢 Easy   | [View](./Linked%20List/21-merge-two-sorted-lists/solution.md) |
-|   ✅   |   🔄   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                        |   🟡 Med   |        [View](./Linked%20List/143-reorder/solution.py)        |
-|   ⬜   |   🔄   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   🟡 Med   |                                                               |
-|   ⬜   |   🔄   | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)      |   🟡 Med   |                                                               |
-|   ⬜   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |                                                               |
-|   ⬜   |   🔄   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |  🟢 Easy   |                                                               |
-|   ⬜   |   🔄   | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              |   🟡 Med   |                                                               |
-|   ⬜   |   🔄   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |                                                               |
+| Status | Review | Problem                                                                                                 | Difficulty |                                Solution                                 |
+| :----: | :----: | :------------------------------------------------------------------------------------------------------ | :--------: | :---------------------------------------------------------------------: |
+|   ✅   |   🔄   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                          |  🟢 Easy   |       [View](./Linked%20List/206-reverse-linked-list/solution.md)       |
+|   ✅   |   🔄   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     |  🟢 Easy   |      [View](./Linked%20List/21-merge-two-sorted-lists/solution.md)      |
+|   ✅   |   🔄   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                        |   🟡 Med   |             [View](./Linked%20List/143-reorder/solution.py)             |
+|   ✅   |   🔄   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   🟡 Med   | [View](./Linked%20List/19-remove-nth-node-from-end-of-list/solution.md) |
+|   ⬜   |   🔄   | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)      |   🟡 Med   |                                                                         |
+|   ⬜   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |                                                                         |
+|   ⬜   |   🔄   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |  🟢 Easy   |                                                                         |
+|   ⬜   |   🔄   | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              |   🟡 Med   |                                                                         |
+|   ⬜   |   🔄   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |                                                                         |
 
 - [0/9] **📝 Hoàn thành chủ đề:** Review lại tất cả 9 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
