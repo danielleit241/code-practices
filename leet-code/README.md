@@ -86,7 +86,7 @@
 |   ✅   |   🔄   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                        |   🟡 Med   |             [View](./Linked%20List/143-reorder/solution.py)             |
 |   ✅   |   🔄   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   🟡 Med   | [View](./Linked%20List/19-remove-nth-node-from-end-of-list/solution.md) |
 |   ✅   |   🔄   | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)      |   🟡 Med   |  [View](./Linked%20List/138-copy-list-with-random-pointer/solution.md)  |
-|   ⬜   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |                                                                         |
+|   ✅   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |          [View](./Linked%20List/2-add-two-numbers/solution.md)          |
 |   ⬜   |   🔄   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |  🟢 Easy   |                                                                         |
 |   ⬜   |   🔄   | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              |   🟡 Med   |                                                                         |
 |   ⬜   |   🔄   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |                                                                         |
