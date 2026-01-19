@@ -89,7 +89,7 @@
 |   ✅   |   🔄   | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    |   🟡 Med   |          [View](./Linked%20List/2-add-two-numbers/solution.md)          |
 |   ✅   |   🔄   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |  🟢 Easy   |        [View](./Linked%20List/141-linked-list-cycle/solution.md)        |
 |   ✅   |   🔄   | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              |   🟡 Med   |    [View](./Linked%20List/287-find-the-duplicate-number/solution.md)    |
-|   ⬜   |   🔄   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |                                                                         |
+|   ✅   |   🔄   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |  🔴 Hard   |       [View](./Linked%20List/23-merge-k-sorted-lists/solution.md)       |
 
 - [0/9] **📝 Hoàn thành chủ đề:** Review lại tất cả 9 bài trên LeetCode trước khi chuyển sang chủ đề tiếp theo!
 
